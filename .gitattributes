@@ -1,1 +1,1 @@
-*.R linguist-vendored
+*.* linguist-language=SQL
